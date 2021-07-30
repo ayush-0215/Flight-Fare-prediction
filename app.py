@@ -331,7 +331,7 @@ def predict():
 
         output=round(prediction[0],2)
 
-        return render_template('home.html',prediction_text="Your fligth price is Rs {}".format(output))
+        return render_template('home.html',prediction_text="Your flight price is Rs {}".format(output))
     
     return render_template("home.html")
 
