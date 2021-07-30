@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(39, 100%, 50%);
+    text-align: center;
+}
+
+
+
+.navbar navbar-inverse navbar-fixed-top {
+    background-color: #0a0601 ;
+}
+
+.head{
+    background-color: black;
+    color:white;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
